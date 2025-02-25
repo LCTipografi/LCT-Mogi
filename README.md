@@ -28,3 +28,6 @@ Repository Layout
 This font repository structure is inspired by Unified Font Repository v0.3.
 
 ![Image](https://github.com/user-attachments/assets/a8e16976-1585-4dc4-9a64-44e6393cabc4)
+
+
+![Image](https://github.com/user-attachments/assets/7f8ba499-3ac9-4a9f-a016-e1847cf515dc)
